@@ -1,1 +1,1 @@
-# StarWars-porfolio
+# StarWars-portfolio
